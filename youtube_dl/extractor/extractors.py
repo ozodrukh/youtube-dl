@@ -440,6 +440,7 @@ from .googlesearch import GoogleSearchIE
 from .goshgay import GoshgayIE
 from .gputechconf import GPUTechConfIE
 from .groupon import GrouponIE
+from .kinopro import KinoProIE
 from .hark import HarkIE
 from .hbo import (
     HBOIE,
